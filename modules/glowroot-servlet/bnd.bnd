@@ -6,4 +6,4 @@ Import-Package:\
 	!org.apache.log,\
 	\
 	*
--noee
+-noee: true
