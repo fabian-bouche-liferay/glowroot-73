@@ -1,0 +1,4 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	compileInclude group: "org.mitre.dsmiley.httpproxy", name: "smiley-http-proxy-servlet", version: "1.12.1"
+}
